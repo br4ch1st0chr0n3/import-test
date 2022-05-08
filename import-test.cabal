@@ -25,6 +25,7 @@ source-repository head
 
 library
   exposed-modules:
+      A
       Lib
   other-modules:
       Paths_import_test
